@@ -1,0 +1,23 @@
+.top_pane {
+    -fx-background-color: #9BDFE6;
+}
+
+.image_btn {
+    -fx-background-color: white;
+    -fx-text-fill: #9bdfe6;
+}
+
+.image_btn:hover {
+    -fx-background-color: #9bdfe6;
+    -fx-text-fill: white;
+}
+
+.exit_btn {
+    -fx-background-color: white;
+    -fx-text-fill: red;
+}
+
+.exit_btn:hover {
+    -fx-background-color: red;
+    -fx-text-fill: white;
+}
