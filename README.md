@@ -1,7 +1,7 @@
 Blood cell analyser
 
 This is just a simple application that detects and identifies blood cells from an image. 
-Language used in JAVA. 
+Language used is JAVA. 
 
 Open an image(Two test images available)
 Press the tri-color switch
